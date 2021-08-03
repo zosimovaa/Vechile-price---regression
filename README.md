@@ -1,8 +1,8 @@
 # Описание
-предсказание стоимости автомобиля по его параметрам. публичный датасет с каггла.
+Предсказание стоимости автомобиля по его параметрам. публичный датасет с каггла.
 
 # Ссылки
-Ноутбук с решением: [kasko.ipynb](вот тут бахнуть ссылочку)
+Ноутбук с решением: [regression-vechile-dataset-1.ipynb](https://bitbucket.org/zosimovaa/vechile-price-regression/src/master/regression-vechile-dataset-1.ipynb?viewer=nbviewer)
 
 
 
